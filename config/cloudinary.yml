@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: pcloud
+  api_key: '262395984372885'
+  api_secret: As8XA_dltGm6Z6KAxx9-cm3Cqsc
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: pcloud
+  api_key: '262395984372885'
+  api_secret: As8XA_dltGm6Z6KAxx9-cm3Cqsc
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: pcloud
+  api_key: '262395984372885'
+  api_secret: As8XA_dltGm6Z6KAxx9-cm3Cqsc
+  enhance_image_tag: true
+  static_image_support: false

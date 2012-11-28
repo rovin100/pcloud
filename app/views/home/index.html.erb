@@ -1,1 +1,5 @@
 <h1>PCloud</h1>
+<%= form_tag '/submit_image',:multipart=>true do %>
+    <%= file_field_tag "test_image" %>
+    <%= submit_tag "submit" %>
+<% end %>
